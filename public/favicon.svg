@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="StepUp favicon">
+  <rect width="64" height="64" rx="18" fill="#171916" />
+  <path
+    d="M14 44H24V36H34V28H49"
+    fill="none"
+    stroke="#d9ff43"
+    stroke-width="7"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M42 20L50 28L42 36"
+    fill="none"
+    stroke="#d9ff43"
+    stroke-width="7"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="14" cy="44" r="3.5" fill="#fcfcf8" />
+</svg>
